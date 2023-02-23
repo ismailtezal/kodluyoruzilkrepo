@@ -20,4 +20,4 @@ ________________________________________________________________________________
 🟢**Big-O gösterimini yazınız.**
 
 **Cevap:**  
-Big O: Her Seferinde 2ye bölünerek işlem yapıldığı için $n^{2}$ = n yani $log{n}$ = x = O(${n}log{n}$)
+Big O: Her Seferinde 2ye bölünerek işlem yapıldığı için $2^{x}$ = n yani $log{n}$ = x = O(${n}log{n}$)
