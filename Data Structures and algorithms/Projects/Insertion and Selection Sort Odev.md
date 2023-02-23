@@ -8,19 +8,19 @@ ________________________________________________________________________________
 🟢**Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.**
 
 **Cevap:**
-+1.Aşama : [2,22,27,16,18,6]0.Indexte En küçük sayı n sorgu ile,
-+2.Aşama : [2,6,22,27,16,18]1.Indexte 2. En küçük sayı n-1 Sorgu ile,
-+3.Aşama : [2,6,16,22,27,18]2.Indexte 3. En küçük sayı n-2 Sorgu ile,
-+4.Aşama : [2,6,16,18,22,27]3.Indexte 4. En küçük sayı n-3 Sorgu ile,
+1.Aşama : [2,22,27,16,18,6]0.Indexte En küçük sayı n sorgu ile,  
+2.Aşama : [2,6,22,27,16,18]1.Indexte 2. En küçük sayı n-1 Sorgu ile,  
+3.Aşama : [2,6,16,22,27,18]2.Indexte 3. En küçük sayı n-2 Sorgu ile,  
+4.Aşama : [2,6,16,18,22,27]3.Indexte 4. En küçük sayı n-3 Sorgu ile,  
 
-+4 Aşama ile Sıralanıp algoritma sonlanmıştır.
+4 Aşama ile Sıralanıp algoritma sonlanmıştır.
 
 _______________________________________________________________________________________________________________________
 
 🟢**Big-O gösterimini yazınız.**
 
 **Cevap:**
-Big O: n+(n-1)+(n-2)+(n-3)+....+1 olmasından dolayı, dominant değer =s $n^{2}$
+Big O: n+(n-1)+(n-2)+(n-3)+....+1 olmasından dolayı, dominant değer =$n^{2}$ = ###O($n^{2}$)
 
 _______________________________________________________________________________________________________________________
 
