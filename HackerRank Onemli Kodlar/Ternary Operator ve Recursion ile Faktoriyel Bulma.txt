@@ -1,0 +1,3 @@
+let factorial = (sayi) => {
+    return sayi == 0 ? 1 : sayi * factorial(sayi - 1);
+}
